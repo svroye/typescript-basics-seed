@@ -4,6 +4,7 @@
 
 // preferred over the type alias
 
+/** 
 interface Sizes {
     sizes: string[];
 }
@@ -32,3 +33,4 @@ function createPizza(name: string, sizes: string[]): Pizza {
 pizza = createPizza("pepperoni", ["small", "medium", "large"]);
 pizza.toppings = 1;
 pizza[1] = "xyz";
+*/
