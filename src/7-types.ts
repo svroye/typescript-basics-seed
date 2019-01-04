@@ -2,7 +2,7 @@
  * TYPES
  */
 
- 
+ /** 
  // ******************************************
  // NUMBER
  // ******************************************
@@ -194,22 +194,4 @@ toppings = ['pepperoni', 'tomato', 'bacon'];
 let otherPizzas: [string, number, boolean]  = ['Pepperoni', 20, true];
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+*/
